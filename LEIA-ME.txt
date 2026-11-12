@@ -1,0 +1,9 @@
+MATOS STORE - atualização de faturamento e categorias
+
+- O faturamento exibido no resumo considera somente o dia atual.
+- Na virada do dia, o resumo diário passa automaticamente a contar o novo dia.
+- Os faturamentos anteriores permanecem no histórico diário e as vendas continuam salvas no navegador.
+- Categorias separadas: Frutas Permanentes e Skins Limited.
+
+Para publicar no GitHub Pages, substitua os arquivos antigos pelos arquivos deste ZIP e faça commit/push.
+Os dados são salvos no localStorage do navegador/dispositivo em que as vendas são registradas.
