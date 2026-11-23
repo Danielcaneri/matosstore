@@ -1,0 +1,17 @@
+MATOS STORE - tema azul/roxo + nova logo
+
+- Botão "Azul | Roxo" no topo do painel. A escolha fica salva no navegador.
+- Azul: cores do gorro de natal (azul gelo/ciano) + logo com gorro de natal.
+- Roxo: roxo neon com detalhes brancos + animação da menina (menina.mp4) como logo.
+- Intro antiga removida: agora só uma tela de carregamento rápida com a logo.
+- Vendas, produtos e faturamento continuam salvos no navegador (localStorage),
+  agora com uma cópia de segurança automática e armazenamento persistente.
+- Nenhuma regra de vendas, cálculo ou categoria foi alterada.
+
+Para publicar no GitHub Pages: suba TODOS os arquivos desta pasta
+(index.html, logo-natal.webp, menina.mp4, menina-poster.jpg, favicon-natal.png),
+substituindo os antigos, e faça commit/push.
+
+IMPORTANTE: os dados ficam salvos no navegador/dispositivo em que as vendas
+são registradas. Se mudar de aparelho ou de endereço do site, use
+"Exportar dados" para guardar um backup.
